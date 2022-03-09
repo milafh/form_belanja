@@ -59,7 +59,7 @@
 <!-- DAFTAR HARGA -->
 
 <form action="" method="post">
-  <table class="table">
+  <table class="table table-bordered">
     <thead class="btn-primary">
       <tr>
         <th>Daftar Harga</th>
